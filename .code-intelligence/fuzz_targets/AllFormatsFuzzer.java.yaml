@@ -20,7 +20,7 @@ type: "java"
 ## Note that any relative paths are resolved relative to the root of the
 ## project directory.
 run_extra_args:
-  - "--keep_going=10"
+  - "--keep_going=100"
 #  - "-c myapp.conf"
 
 ## Options to pass to the fuzzing engine.
