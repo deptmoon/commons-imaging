@@ -2,7 +2,7 @@
 Welcome to Apache Commons Imaging  <http://commons.apache.org/imaging/>
 =========================================================================
 
-License (see also LICENSE)
+License (see also LICENSE) 
 ==============================
 
 Collective work: Copyright 2007-2012 The Apache Software Foundation.
